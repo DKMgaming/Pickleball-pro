@@ -1,0 +1,6 @@
+{
+  "name": "Pickleball Tournament Pro - Hệ Thống Quản Lý Giải Đấu",
+  "description": "Nền tảng quản lý giải thi đấu Pickleball chuẩn quốc tế với kiến trúc Multi-tenant, tự động chia bảng, lập lịch thi đấu, import Excel và sơ đồ nhánh playoff trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
